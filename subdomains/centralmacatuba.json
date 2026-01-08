@@ -1,0 +1,11 @@
+{
+    "owner": {
+        "username": "centralmacatuba",
+        "email": "centralmacatuba@gmail.com"
+    },
+
+    "records": {
+        "NS": ["ns1.dns.centralmacatuba.eu.org", "ns2.dns.centralmacatuba.eu.org"]
+    },
+    "proxied": true
+}
